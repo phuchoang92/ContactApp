@@ -62,6 +62,6 @@
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_below="@+id/subject"
-            android:src="@android:drawable/star_off" />
+            android:src="@drawable/ic_baseline_star_border_24" />
     </RelativeLayout>
 </androidx.cardview.widget.CardView>

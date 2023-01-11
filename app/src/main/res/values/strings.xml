@@ -6,4 +6,6 @@
     <string name="sample_brief">Are you looking to Learn Web Designing</string>
     <string name="sample_date">12:34 PM</string>
     <string name="sample_description">Avatar</string>
+    <string name="menu">menu</string>
+    <string name="search_in_mail">Inbox</string>
 </resources>
