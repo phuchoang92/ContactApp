@@ -8,12 +8,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="16dp">
+
         <TextView
             android:id="@+id/avatar"
-            android:layout_width="40dp"
-            android:layout_height="40dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
             android:background="@drawable/round_background"
-            android:contentDescription="@string/sample_description" />
+            android:gravity="center"
+            android:text="T"
+            android:textColor="#F6F4F4"
+            android:textSize="35sp" />
         <TextView
             android:id="@+id/sender"
             android:layout_marginStart="16dp"
